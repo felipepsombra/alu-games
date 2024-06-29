@@ -2,6 +2,10 @@
 
 AluGames é um site simples de simulação de aluguel de jogos. Permite aos usuários alugar e devolver jogos, com uma interface que exibe a quantidade de jogos alugados em tempo real.
 
+## Site
+
+[AluGames](https://alu-games-psi.vercel.app)
+
 ## Funcionalidades
 
 - Alugar jogos: Altera o status de um jogo para alugado.
